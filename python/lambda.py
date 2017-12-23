@@ -33,7 +33,7 @@ print(min(2,3))
 print(min_lmb(2,3))
 print
 
-# Example 3
+# Example 4 
 def make_inc(n):
    def inc(val):
       return n+val
